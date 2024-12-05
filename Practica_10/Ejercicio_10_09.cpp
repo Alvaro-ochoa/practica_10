@@ -1,4 +1,3 @@
-
 /* Materia: Programación I, Paralelo 1
 Autor: Alvaro Alejandro Ochoa Segales
 Fecha creación: 03/12/2024
